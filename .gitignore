@@ -1,0 +1,7 @@
+pgdb/
+.idea/
+.venv
+*.pyc
+.vscode
+.venv
+venv
